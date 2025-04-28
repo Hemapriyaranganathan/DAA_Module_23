@@ -39,7 +39,8 @@ print('Minimum number of jumps to reach','end is', minJumps(arr,n))
  
 
 ## Output:
-![Screenshot 2025-04-29 003905](https://github.com/user-attachments/assets/4735f9af-179e-4d72-9843-089931b6c4db)
+![Screenshot 2025-04-29 003905](https://github.com/user-attachments/assets/8d96c65f-252a-4230-93b3-c40d843955fc)
+
 
 
 
